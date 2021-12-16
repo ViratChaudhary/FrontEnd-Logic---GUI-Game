@@ -1,1 +1,1 @@
-# FrontEnd-Logic---GUI-Game
+# Frontend-Logic---GUI-Game
